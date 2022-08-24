@@ -6,8 +6,11 @@ Text-to-speech is commonly used as an accessibility feature to help people who h
 
 **Libraries Used**
 **1) PIL** - **Python Imaging Library** (expansion of PIL) is the de facto image processing package for Python language. It incorporates lightweight image processing tools that aids in editing, creating and saving images.
+
 **2) gTTS** - **Convert Text to Speech in Python** One of such APIs is the **Google Text to Speech API** commonly known as the gTTS API. gTTS is a very easy to use tool which converts the text entered, into audio which can be saved as a mp3 file
+
 **3) pytesseract** -Python-tesseract is an optical character recognition (**OCR**) tool for python. That is, it will **recognize and “read” the text embedded in images.**
+
 Python-tesseract is a wrapper for Google’s Tesseract-OCR Engine. It is also useful as a stand-alone invocation script to tesseract, as it can **read all image types supported by the Pillow** and Leptonica imaging libraries, including jpeg, png, gif, bmp, tiff, and others. Additionally, if used as a script, Python-tesseract will print the recognized text instead of writing it to a file.
 ### How to Install 
 
