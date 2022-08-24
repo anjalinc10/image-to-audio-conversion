@@ -20,9 +20,9 @@ Note: Installing pytesseeract can be an issue sometimes, so there ways in which 
 ### Run the Project
 By default the script will load an image with name image_to_sound.png from its current directory. 
 
-### input -: any image you want to read, just specify its path with name
+**input -:** any image you want to read, just specify its path with name
 
-### output -: audio which help you to read your image.
+**output -:** audio which help you to read your image.
 
 
 
