@@ -5,6 +5,7 @@ This is Image to audio conversion project.
 Text-to-speech is commonly used as an accessibility feature to help people who have trouble reading on-screen text, but it's also convenient for those who want to be read to. You can find text-to-speech features in many places today, including ebook readers, word processors, internet browsers, and more
 
 **Libraries Used**
+
 **1) PIL** - **Python Imaging Library** (expansion of PIL) is the de facto image processing package for Python language. It incorporates lightweight image processing tools that aids in editing, creating and saving images.
 
 **2) gTTS** - **Convert Text to Speech in Python** One of such APIs is the **Google Text to Speech API** commonly known as the gTTS API. gTTS is a very easy to use tool which converts the text entered, into audio which can be saved as a mp3 file
