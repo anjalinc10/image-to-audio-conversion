@@ -9,6 +9,7 @@ Text-to-speech is commonly used as an accessibility feature to help people who h
 In order to run this code you're supposed to have pytesseract and google text to sound libary installed on your machine, you can just use pip command to this.
 
 -> pip install pytesseract
+
 -> pip install gTTS
 
 Note: Installing pytesseeract can be an issue sometimes, so there ways in which you could do this effectively as follow,
